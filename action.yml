@@ -1,4 +1,4 @@
-name: 'ssh-scp-ssh-pipelines'
+name: 'ssh-scp-ssh-pipelines-action'
 description: 'Pipelines: ssh -> scp -> ssh'
 author: 'Scott Ng'
 inputs:
